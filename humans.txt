@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Linda Benhase linda.benhase@pima.gov
 
 # THANKS
 
